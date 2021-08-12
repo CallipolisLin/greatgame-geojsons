@@ -1,0 +1,355 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Moscow"
+      },
+      "geometry": {
+        "coordinates": [
+          37.6173,
+          55.7558
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Orenburg"
+      },
+      "geometry": {
+        "coordinates": [
+          55.0970,
+          51.7682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Tashkent"
+      },
+      "geometry": {
+        "coordinates": [
+          69.2401,
+          41.2995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Chirchik"
+      },
+      "geometry": {
+        "coordinates": [
+            69.5857,
+            41.4888
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Samarkand"
+      },
+      "geometry": {
+        "coordinates": [
+            66.9750,
+            39.6270
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Osh"
+      },
+      "geometry": {
+        "coordinates": [
+            72.8161,
+            40.5140
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Kalatalezhen"
+      },
+      "geometry": {
+        "coordinates": [
+            80.4910,
+            40.7893
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Ku'ergancun"
+      },
+      "geometry": {
+        "coordinates": [
+            76.26080,
+            39.13488
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Taldyk"
+      },
+      "geometry": {
+        "coordinates": [
+            73.1340,
+            40.1850
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Irkeshtam"
+      },
+      "geometry": {
+        "coordinates": [
+            73.8985,
+            39.6783
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Oksalur"
+      },
+      "geometry": {
+        "coordinates": [
+            74.7930,
+            39.6773
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Yangdamanxiang"
+      },
+      "geometry": {
+        "coordinates": [
+            76.3597632201277,
+            39.390848638465805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Yangiabad"
+      },
+      "geometry": {
+        "coordinates": [
+            76.8066,
+            39.5108
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Yudaike Like"
+      },
+      "geometry": {
+        "coordinates": [
+            77.7584,
+            39.7163
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Oerdäklik"
+      },
+      "geometry": {
+        "coordinates": [
+            77.7584,
+            39.7163
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Maral-Bachi"
+      },
+      "geometry": {
+        "coordinates": [
+            78.5493,
+            39.7852
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Tumxuk"
+      },
+      "geometry": {
+        "coordinates": [
+            79.0693,
+            39.8649
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Jiamuzhen"
+      },
+      "geometry": {
+        "coordinates": [
+            80.5142,
+            41.3170
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Baicheng County"
+      },
+      "geometry": {
+        "coordinates": [
+            81.8742,
+            41.7969
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Kizilsu Kyrgyz Autonomous Prefecture"
+      },
+      "geometry": {
+        "coordinates": [
+            76.1678,
+            39.7145
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Kuqa"
+      },
+      "geometry": {
+        "coordinates": [
+            82.9620,
+            41.7179
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Wuqia County"
+      },
+      "geometry": {
+        "coordinates": [
+            75.2592,
+            39.7193
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Kezile"
+      },
+      "geometry": {
+        "coordinates": [
+            75.9360,
+            39.6081
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Kumutula"
+      },
+      "geometry": {
+        "coordinates": [
+            82.9260,
+            41.7179
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "location": "Subashi"
+      },
+      "geometry": {
+        "coordinates": [
+            78.75603222459024,
+            40.518845844267204
+        ],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

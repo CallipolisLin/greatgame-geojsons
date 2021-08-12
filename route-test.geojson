@@ -1,0 +1,482 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "07/15/1906",
+        "location": "Paris"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3522,
+          48.8566
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "07/15/1906",
+        "location": "Moscow"
+      },
+      "geometry": {
+        "coordinates": [
+          37.6173,
+          55.7558
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "07/15/1906",
+        "location": "Orenburg"
+      },
+      "geometry": {
+        "coordinates": [
+          55.0970,
+          51.7682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "07/15/1906",
+        "location": "Andijan"
+      },
+      "geometry": {
+        "coordinates": [
+          72.2837,
+          40.8154
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "07/16/1906",
+        "location": "Zarafchan"
+      },
+      "geometry": {
+        "coordinates": [
+          64.1833,
+          41.5744
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "07/16/1906",
+        "location": "Samarkand"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9750,
+          39.6270
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "07/16/1906",
+        "location": "Bibi Khanum"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9801,
+          39.6607
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "07/17/1906",
+        "location": "Afrasiab"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9884,
+          39.6702
+        ],
+        "type": "Point"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "07/19/1906",
+        "location": "Toshkent"
+      },
+      "geometry": {
+        "coordinates": [
+          69.2401,
+          41.2995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "07/20/1906",
+        "location": "Nadejda"
+      },
+      "geometry": {
+        "coordinates": [
+            88.5565,
+            23.4710
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "07/26/1906",
+        "location": "Kokand"
+      },
+      "geometry": {
+        "coordinates": [
+            70.9309,
+            40.5341
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "07/27/1906",
+        "location": "Andijan"
+      },
+      "geometry": {
+        "coordinates": [
+          72.2837,
+          40.8154
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "07/29/1906",
+        "location": "Osh"
+      },
+      "geometry": {
+        "coordinates": [
+            72.8161,
+            40.5140
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "08/11/1906",
+        "location": "Taldyk"
+      },
+      "geometry": {
+        "coordinates": [
+            73.1340,
+            40.1850
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "09/01/1906",
+        "location": "Kashgar"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "09/26/1906",
+        "location": "Tortkyol"
+      },
+      "geometry": {
+        "coordinates": [
+          76.9441,
+          42.1140
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "09/27/1906",
+        "location": "Qyzyl-Tim - kizil caves?"
+      },
+      "geometry": {
+        "coordinates": [
+            82.295999,
+            41.465999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "10/17/1906",
+        "location": "Kuqa"
+      },
+      "geometry": {
+        "coordinates": [
+            82.9620,
+            41.7179
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "10/26/1906",
+        "location": "Oerdäklik"
+      },
+      "geometry": {
+        "coordinates": [
+            77.7584,
+            39.7163
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "10/28/1906",
+        "location": "Maral-Bachi"
+      },
+      "geometry": {
+        "coordinates": [
+            78.5493,
+            39.7852
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "10/29/1906",
+        "location": "Tumxuk"
+      },
+      "geometry": {
+        "coordinates": [
+            79.0693,
+            39.8649
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "12/21/1906",
+        "location": "Yangi-chahr"
+      },
+      "geometry": {
+        "coordinates": [
+          80.1603,
+          41.0911 
+        ],
+        "type": "Point"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "date": "12/22/1906",
+        "location": "Kohne Chahr"
+      },
+      "geometry": {
+        "coordinates": [
+            79.39,
+            39.30
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          4.224002,
+          49.10428
+        ],
+        "type": "Point"
+      },
+      "id": "95916b4272aaa279e458199c0bcab4ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          4.224002,
+          49.10428
+        ],
+        "type": "Point"
+      },
+      "id": "95916b4272aaa279e458199c0bcab4ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            2.3522,
+            48.8566
+          ],
+          [
+            37.6173,
+            55.7558
+          ],
+          [
+            55.0970,
+            51.7682
+          ],
+          [
+            72.2837,
+            40.8154
+          ],
+          [
+            64.1833,
+            41.5744
+          ],
+          [
+            66.9750,
+            39.6270
+          ],
+          [
+            66.9801,
+            39.6607
+          ],
+          [
+            66.9884,
+            39.6702
+          ],
+          [
+            69.2401,
+            41.2995
+          ],
+          [
+              88.5565,
+              23.4710
+          ],
+          [
+              70.9309,
+              40.5341
+          ],
+          [
+            72.2837,
+            40.8154
+          ],
+          [
+              72.8161,
+              40.5140
+          ],
+          [
+              73.1340,
+              40.1850
+          ],
+          [
+            75.9938,
+            39.4677
+          ],
+          [
+            76.9441,
+            42.1140
+          ],
+          [
+              82.295999,
+              41.465999
+          ],
+          [
+              82.9620,
+              41.7179
+          ],
+          [
+            77.7584,
+            39.7163
+          ],
+          [
+              78.5493,
+              39.7852
+          ],
+          [
+              79.0693,
+              39.8649
+          ],
+          [
+            80.1603,
+            41.0911 
+          ],
+          [
+              79.39,
+              39.30
+          ],
+          [
+            4.224002,
+            49.10428
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "a9d8e93a7b54bfbd3d795cccdbbed038"
+    }
+  ],
+  "type": "FeatureCollection"
+}

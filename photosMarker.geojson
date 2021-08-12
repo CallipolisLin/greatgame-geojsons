@@ -1,0 +1,1514 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "001-01",
+        "accuracy": "point",
+        "location": "Moscow",
+        "caption": "Moscov - Les Isvoschiks"
+      },
+      "geometry": {
+        "coordinates": [
+          37.6173,
+          55.7558
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "001-02",
+        "accuracy": "point",
+        "location": "Orenburg-Tashkent",
+        "caption": "Reservoir - Ligne Orenbourg-Taschkent"
+      },
+      "geometry": {
+        "coordinates": [
+          55.0970,
+          51.7682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "001-03",
+        "accuracy": "point",
+        "location": "Orenburg-Tashkent",
+        "caption": "Troupes Russes, Retour De Manchourie"
+      },
+      "geometry": {
+        "coordinates": [
+          55.0970,
+          51.7682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "001-04",
+        "accuracy": "point",
+        "location": "Orenburg-Tashkent",
+        "caption": "Groupe de Jeunes Filles Russes"
+      },
+      "geometry": {
+        "coordinates": [
+          69.2401,
+          41.2995
+        ],
+        "type": "Point"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "002-01",
+        "accuracy": "point",
+        "location": "Orenburg",
+        "caption": "Station - Ligne Orenbourg-Taschkent"
+      },
+      "geometry": {
+        "coordinates": [
+          55.0970,
+          51.7682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "002-02",
+        "accuracy": "point",
+        "location": "Tashkent",
+        "caption": "Taschkent - Cimetière Sarte et Arbres Sacres"
+      },
+      "geometry": {
+        "coordinates": [
+          69.2401,
+          41.2995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "002-03",
+        "accuracy": "point",
+        "location": "Tashkent",
+        "caption": "Taschkent - Vieux Fou"
+      },
+      "geometry": {
+        "coordinates": [
+          69.2401,
+          41.2995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "002-04",
+        "accuracy": "point",
+        "location": "Orenburg",
+        "caption": "Station - Ligne Orenbourg-Taschkent"
+      },
+      "geometry": {
+        "coordinates": [
+          55.0970,
+          51.7682
+        ],
+        "type": "Point"
+      }
+    },
+
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "003-01",
+        "accuracy": "point",
+        "location": "Tashkent",
+        "caption": "Taschkent - Baignade Le Soir"
+      },
+      "geometry": {
+        "coordinates": [
+          69.2401,
+          41.2995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "003-02",
+        "accuracy": "point",
+        "location": "Tashkent",
+        "caption": "Taschkent - Entree Du Bazar"
+      },
+      "geometry": {
+        "coordinates": [
+          69.2401,
+          41.2995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "003-03",
+        "accuracy": "point",
+        "location": "Tashkent",
+        "caption": "Taschkent - Le Bazar"
+      },
+      "geometry": {
+        "coordinates": [
+          69.2401,
+          41.2995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "003-04",
+        "accuracy": "point",
+        "location": "Tashkent",
+        "caption": "Taschkent - Mosquee"
+      },
+      "geometry": {
+        "coordinates": [
+          69.2401,
+          41.2995
+        ],
+        "type": "Point"
+      }
+    },
+
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "004-01",
+        "accuracy": "point",
+        "location": "Chirchik",
+        "caption": "Tchirchyk - Detail Du Pont"
+      },
+      "geometry": {
+        "coordinates": [
+          69.5857,
+          41.4888
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "004-02",
+        "accuracy": "point",
+        "location": "Chirchik",
+        "caption": "Tchirchyk - Pont"
+      },
+      "geometry": {
+        "coordinates": [
+          69.5857,
+          41.4888
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "004-03",
+        "accuracy": "point",
+        "location": "Tashkent",
+        "caption": "Tchirchyk - Pont"
+      },
+      "geometry": {
+        "coordinates": [
+          69.2401,
+          41.2995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "004-04",
+        "accuracy": "point",
+        "location": "Samarkand",
+        "caption": "Samarkande - Ouroug-Beg"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9750,
+          39.6270
+        ],
+        "type": "Point"
+      }
+    },
+
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "005-01",
+        "accuracy": "point",
+        "location": "Samarkand",
+        "caption": "Samarkande - Chazin-Dhey"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9750,
+          39.6270
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "005-02",
+        "accuracy": "point",
+        "location": "Samarkand",
+        "caption": "Samarkande - Tinā Chàr"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9750,
+          39.6270
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "005-03",
+        "accuracy": "point",
+        "location": "Samarkand",
+        "caption": "Samarkande - Chazin-Dhey"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9750,
+          39.6270
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "005-04",
+        "accuracy": "point",
+        "location": "Samarkand",
+        "caption": "Samarkande - Chirdār (Le soir)"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9750,
+          39.6270
+        ],
+        "type": "Point"
+      }
+    },
+
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "006-01",
+        "accuracy": "point",
+        "location": "Samarkand",
+        "caption": "Samarkande - Vue Panoramique Prise de Chirdār (vers le Sud)"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9750,
+          39.6270
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "006-02",
+        "accuracy": "point",
+        "location": "Samarkand",
+        "caption": "Samarkande - Vue des Fouilles (Barthold)"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9750,
+          39.6270
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "006-03",
+        "accuracy": "point",
+        "location": "Samarkand",
+        "caption": "Samarkande - Panorama Pris d'Aphrosiade"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9750,
+          39.6270
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "006-04",
+        "accuracy": "point",
+        "location": "Samarkand",
+        "caption": "Samarkande - Vue Panoramique Prise de Chirdār (vers le Nud)"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9750,
+          39.6270
+        ],
+        "type": "Point"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "007-01",
+        "accuracy": "point",
+        "location": "Samarkand",
+        "caption": "Samarkande - Porte Chazin-Dhey"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9750,
+          39.6270
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "00-02",
+        "accuracy": "point",
+        "location": "Samarkand",
+        "caption": "Samarkande - Portail d'Ouroug-Beg"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9750,
+          39.6270
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "00-03",
+        "accuracy": "point",
+        "location": "Samarkand",
+        "caption": "Samarkande - Mosquee Chinoise"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9750,
+          39.6270
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "00-04",
+        "accuracy": "point",
+        "location": "Samarkand",
+        "caption": "Samarkande - Interieur d'Ouroug-Beg"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9750,
+          39.6270
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "008-01",
+        "accuracy": "point",
+        "location": "Osh",
+        "caption": "Och - La Cour de Notre Auberge"
+      },
+      "geometry": {
+        "coordinates": [
+          72.8161, 
+          40.5140
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "008-02",
+        "accuracy": "point",
+        "location": "Samarkand",
+        "caption": "Samarkande- Gazi Niaz"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9750, 
+          39.6270
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "008-03",
+        "accuracy": "point",
+        "location": "Samarkand",
+        "caption": "Samarkande- Gazi Niaz"
+      },
+      "geometry": {
+        "coordinates": [
+          66.9750, 
+          39.6270
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "008-04",
+        "accuracy": "point",
+        "location": "Osh",
+        "caption": "Och - Interieur de Ouroug-Beg"
+      },
+      "geometry": {
+        "coordinates": [
+          72.8161,
+          40.5140
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "009-01",
+        "accuracy": "point",
+        "location": "Osh",
+        "caption": "Och - Batcha"
+      },
+      "geometry": {
+        "coordinates": [
+          72.8161,
+          40.5140
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "009-02",
+        "accuracy": "point",
+        "location": "Osh",
+        "caption": "Och - Portrait"
+      },
+      "geometry": {
+        "coordinates": [
+          72.8161,
+          40.5140
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "009-03",
+        "accuracy": "point",
+        "location": "Osh",
+        "caption": "Och - Marechal Ferrant"
+      },
+      "geometry": {
+        "coordinates": [
+          72.8161,
+          40.5140
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "009-04",
+        "accuracy": "point",
+        "location": "Osh",
+        "caption": "Och - Batcha"
+      },
+      "geometry": {
+        "coordinates": [
+          72.8161,
+          40.5140
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "010-01",
+        "accuracy": "point",
+        "location": "Osh",
+        "caption": "Och - Batcha"
+      },
+      "geometry": {
+        "coordinates": [
+          72.8161,
+          40.5140
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "010-02",
+        "accuracy": "point",
+        "location": "Osh",
+        "caption": "Och - Batcha"
+      },
+      "geometry": {
+        "coordinates": [
+          72.8161,
+          40.5140
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "010-03",
+        "accuracy": "point",
+        "location": "Osh",
+        "caption": "Och - Ecole"
+      },
+      "geometry": {
+        "coordinates": [
+          72.8161,
+          40.5140
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "010-04",
+        "accuracy": "point",
+        "location": "Osh",
+        "caption": "Och - Batcha"
+      },
+      "geometry": {
+        "coordinates": [
+          72.8161,
+          40.5140
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "011-01",
+        "accuracy": "point",
+        "location": "Osh",
+        "caption": "Och - Vue du Rocher Sacre"
+      },
+      "geometry": {
+        "coordinates": [
+          72.8161,
+          40.5140
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "00-02",
+        "accuracy": "point",
+        "location": "Kalatalezhen",
+        "caption": "Qara-Tai - Lever du Camp"
+      },
+      "geometry": {
+        "coordinates": [
+          80.4910,
+          40.7893
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "011-03",
+        "accuracy": "point",
+        "location": "Osh",
+        "caption": "Och - Depart de M. P.Pelliot"
+      },
+      "geometry": {
+        "coordinates": [
+          72.8161,
+          40.5140
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "011-04",
+        "accuracy": "point",
+        "location": "Osh",
+        "caption": "Och - Depart de M. P.Pelliot"
+      },
+      "geometry": {
+        "coordinates": [
+          72.8161,
+          40.5140
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "013-01",
+        "accuracy": "point",
+        "location": "Ku'ergancun",
+        "caption": "Kyzyl-Kourgane - Halte à Midi"
+      },
+      "geometry": {
+        "coordinates": [
+          76.2608,
+          39.13488
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "015-01",
+        "accuracy": "point",
+        "location": "Taldyk",
+        "caption": "Taldyk - Descente en Vallee d'Alaï"
+      },
+      "geometry": {
+        "coordinates": [
+          73.1340,
+          40.1850
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "015-02",
+        "accuracy": "point",
+        "location": "Taldyk",
+        "caption": "Taldyk - Notre Caravane Te Nos Guides au Pied du Col"
+      },
+      "geometry": {
+        "coordinates": [
+          73.1340,
+          40.1850
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "015-03",
+        "accuracy": "point",
+        "location": "Taldyk",
+        "caption": "Taldyk - Les Observateurs"
+      },
+      "geometry": {
+        "coordinates": [
+          73.1340,
+          40.1850
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "015-04",
+        "accuracy": "point",
+        "location": "Taldyk",
+        "caption": "Taldyk - La Colonne de nos Observateurs"
+      },
+      "geometry": {
+        "coordinates": [
+          73.1340,
+          40.1850
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "015-05",
+        "accuracy": "point",
+        "location": "Taldyk",
+        "caption": "Taldyk - Nos Chevaux Charges"
+      },
+      "geometry": {
+        "coordinates": [
+          73.1340,
+          40.1850
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "018-03",
+        "accuracy": "point",
+        "location": "Irkeshtam",
+        "caption": "Irkechtam - Le Camp"
+      },
+      "geometry": {
+        "coordinates": [
+          73.8985, 
+          39.6783
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "019-01",
+        "accuracy": "point",
+        "location": "Oksalur",
+        "caption": "Ouq-Salyr - Roches Creusees Par le Vent"
+      },
+      "geometry": {
+        "coordinates": [
+          74.7930,
+          39.6783
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "019-02",
+        "accuracy": "point",
+        "location": "Irkeshtam",
+        "caption": "Irkechtam - Le Kyzyl-Sou"
+      },
+      "geometry": {
+        "coordinates": [
+          73.8985, 39.6783
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "019-04",
+        "accuracy": "point",
+        "location": "Oksalur",
+        "caption": "Ouq-Salyr - Vallee Torrent (vers le nord)"
+      },
+      "geometry": {
+        "coordinates": [
+          74.7930,
+          39.6783
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "020-01",
+        "accuracy": "point",
+        "location": "",
+        "caption": "Kyzyl-Uï - Caravane"
+      },
+      "geometry": {
+        "coordinates": [
+          94.27,
+          51.43
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "020-02",
+        "accuracy": "point",
+        "location": "",
+        "caption": "Ouq-Salyr - Arrivee de le Caravane"
+      },
+      "geometry": {
+        "coordinates": [
+          74.7930,
+          39.6773
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "020-03",
+        "accuracy": "point",
+        "location": "",
+        "caption": "Ouq-Salyr - Couches Geologiques"
+      },
+      "geometry": {
+        "coordinates": [
+          74.7930,
+          39.6773
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "020-04",
+        "accuracy": "point",
+        "location": "",
+        "caption": "Ouq-Salyr - Vallee Torrent (vers le sud)"
+      },
+      "geometry": {
+        "coordinates": [
+          74.7930,
+          39.6773
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "020-05",
+        "accuracy": "point",
+        "location": "",
+        "caption": "Kyzyl-Uï - Corridor (Canon)"
+      },
+      "geometry": {
+        "coordinates": [
+          94.27,
+          51.43
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "021-01",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Escorte du Mandarin"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "021-04",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Portrait de M.Nouette"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "021-05",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Escorte du Mandarin"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "022-01",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Tombeau"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "022-02",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Mosquee et Cimetière"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "022-03",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Tombeau"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "022-04",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Dejeuner Chez le Tao-Taï"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "022-05",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Mosquee (Côté sud)"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "023-01",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Portrait du Tao-Taï"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "023-02",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Chez le Sous-Prefet"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "023-03",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Les Adieux et le Depart"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "023-04",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Portrait du Tong-San-Tchu"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "024-01",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Dans le Jardin"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "024-02",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Porte Nord de la Ville"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "024-03",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Les Marchands de Violons"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "024-04",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Les Adieux"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "025-01",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Le Bazar"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "025-02",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Montage de la Kibitka"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "025-03",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Montage de la Kibitka"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "025-04",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Montage de la Kibitka"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "026-01",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Montage de la Kibitka"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "026-02",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Musiciens Sartes"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "026-03",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Montage de la Kibitka"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "026-04",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Montage de la Kibitka"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "027-01",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Groupe Chez M. Macartney"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "027-02",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Observation Astronomique"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "030-04",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Musiciens Donnant Aubade"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "031-02",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Musiciens Donnant Aubade"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "032-03",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Fouilles à Tgurman"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "032-04",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Fouilles à Tegurman"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "032-05",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Ouch Merouvan"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "file_name": "033-01",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Aux Ruines d'Eski-Châr"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "033-02",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Un Abdâl"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "033-03",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Stupā"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "file_name": "033-05",
+        "accuracy": "point",
+        "location": "Kashgar",
+        "caption": "Kachgar - Stupā"
+      },
+      "geometry": {
+        "coordinates": [
+          75.9938,
+          39.4677
+        ],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
